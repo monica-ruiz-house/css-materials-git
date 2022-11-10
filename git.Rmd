@@ -1,6 +1,7 @@
 ---
-title: "Test Run"
-output: html_document
+title: "Test Run for Git Practice"
+author: "Mónica Ruiz House"
+output: github_document
 date: '2022-11-10'
 ---
 
